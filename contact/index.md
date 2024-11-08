@@ -1,8 +1,8 @@
 ---
-title: Join Us
+title: Join Us!
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: information about applying for positions at our lab
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
