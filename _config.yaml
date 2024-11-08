@@ -2,8 +2,10 @@
 title: Harvard Embodied Intelligence Group
 subtitle: 
 description: We are a group of researchers interested in building the fundamental tools necessary to enable autonomous agents in the physical world.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background_dalle.webp
+footer: images/background_dalle.webp
+header-dark: true
+footer-dark: true
 proofer: false
 
 # site social media and other links
