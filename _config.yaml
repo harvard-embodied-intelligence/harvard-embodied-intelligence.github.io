@@ -1,14 +1,14 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: Harvard Embodied Intelligence Group
+subtitle: 
+description: We are a group of researchers interested in building the fundamental tools necessary to enable autonomous agents in the physical world.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: ydu@seas.harvard.edu
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: your-lab
