@@ -1,14 +1,10 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Yilun Du
+image: images/yilun.png
 role: pi
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: Harvard University
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://yilundu.github.io
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
