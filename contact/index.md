@@ -7,8 +7,8 @@ nav:
 
 ## Join Us!
 
-We're recruiting undergraduates, PhD, postdocs, and  visiting students this year!
-if yo
+We're recruiting visting students, PhDs, and postdocs this year! Please
+can on the links below for instructions to apply for each group.
 
 
 {% include section.html %}
@@ -35,24 +35,3 @@ if yo
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
