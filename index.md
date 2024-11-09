@@ -4,7 +4,7 @@
 Welcome to the Harvard Embodied Intelligence Lab! We're a interdisciplinary set of researchers workly broadly on the research question
 of constructing intelligent agents in the physical world, with a focus on constructing general purpose machine learning algorithms towards this 
 goal. At the current moment, a research focus for the lab is the construction of robust generative models of world as well as the downstream use of the such models
-for tasks such as planning, perception, and reasoning. Our lab is also focused on the broader use of these generative tools in domains such a scientific discovery and engineering design.
+for tasks such as planning, perception, and reasoning. Our lab is further interested in the broader use of these generative tools in domains such a scientific discovery and engineering design.
  Our lab is in the [Kempner Institute](https://kempnerinstitute.harvard.edu/) and  computer science in the [Harvard School of Engineering and Applied Sciences](https://seas.harvard.edu/).
 
 {% include section.html %}
