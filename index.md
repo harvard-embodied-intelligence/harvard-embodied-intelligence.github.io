@@ -2,7 +2,8 @@
 ---
 
 The Harvard Embodied Intelligence lab is is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Spend less time worrying about managing a website and citations, and more time running your lab. Our lab is in the [Kempner
+Institute](https://kempnerinstitute.harvard.edu/) and  computer science in the [Harvard School of Engineering and Applied Sciences](https://seas.harvard.edu/).
 
 {% include section.html %}
 
