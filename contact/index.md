@@ -7,7 +7,7 @@ nav:
 
 ## Join Us!
 
-We're recruiting undergraduates, PhD, postDocs, and  visiting students this year!
+We're recruiting undergraduates, PhD, postdocs, and  visiting students this year!
 if yo
 
 

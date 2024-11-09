@@ -2,20 +2,25 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: List of Research Directions
 ---
 
 
-## Highlighted
+## Generative Models of the World
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+We are interested in constructin generative models of the world:w
+A large part of our working
 
-{% include section.html %}
+## Compositional Modeling
 
-## All
+We. By modeling the world
 
-{% include search-box.html %}
+## Reasoning
 
-{% include search-info.html %}
+We are interested in constructing systems that can systematically reason
+about the world
 
-{% include list.html data="citations" component="citation" style="rich" %}
+
+## Applications to Scientific Discovery
+
+We are interested in applications in scientific domains
