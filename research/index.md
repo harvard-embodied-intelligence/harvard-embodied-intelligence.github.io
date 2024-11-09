@@ -21,6 +21,7 @@ We are interested in constructing systems that can systematically reason
 about the world
 
 
-## Applications to Scientific Discovery
+## Broader Applications to Scientific Discovery and Engineering
 
-We are interested in applications in scientific domains
+We are interested in the broader applications of tools we have discover to scientific 
+and engineering domains
